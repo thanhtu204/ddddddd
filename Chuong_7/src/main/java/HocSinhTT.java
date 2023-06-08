@@ -33,7 +33,7 @@ public abstract class HocSinhTT {
         this.tenHS = tenHS;
     }
    public void inThongtin(){
-       System.out.print("Ma hoc sinh : "+tenHS+" Ten hoc sinh: "+tenHS );
+       System.out.print("Ma hoc sinh : "+maHS+" Ten hoc sinh: "+tenHS );
         }
    protected abstract void xepLoai();
   protected abstract double  tinhDiemTB();
