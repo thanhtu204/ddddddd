@@ -1,0 +1,4 @@
+cách chuyển đổi số sang string gồm 3 cách:
+cách 1 : kiểu int +"";
+cách 2: String.valueOf(int);
+cách 3: Interger.tostring(int);
